@@ -1,9 +1,11 @@
 {
    "Holidays": [
-	                {
-                      "url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", 
-                      "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"
-                  }
+	          {
+                      "url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/newyearsday.html", 
+                      "subjectLine": "ACSHoliday-Happy Holiday",
+		      "id": "EID7823-1"  
+                  },
+	   
     	
   ]
 }
