@@ -1,9 +1,23 @@
 {
  
   "Holidays": [
-	                                     {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"}
+				{
+					"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/newyearsday.html", 
+					"subjectLine": "ACSHoliday-New Years Day",
+					"id":"EID7823-1"
+				},
+				{
+					"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/vday.html", 
+					"subjectLine": "ACSHoliday-Valentines Day",
+					"id":"EID7823-2"
+				},
+				{
+					"url":"7.	https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/mothersday.html", 
+					"subjectLine": "ACSHoliday-Mothers Day",
+					"id":"EID7823-3"
+				}
     	
-  ],
+  ]
  
  
 }
