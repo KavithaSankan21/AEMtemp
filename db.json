@@ -1,21 +1,9 @@
 {
-  "Newsletter1": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7821" }
-  ],
-	 "Newsletter2": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7821" }
-  ],
-	 "Newsletter3": [
-
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7823-1" }
-
-  ],	
+ 
   "Holidays": [
 	                                     {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"}
     	
   ],
  
-  "Birthday": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acsautocampaign.html", "subjectLine": "HappyBirthday","id":"EID 7825-1" }
-  ]
+ 
 }
