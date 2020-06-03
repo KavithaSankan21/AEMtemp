@@ -1,20 +1,13 @@
 {
  
-  "Holidays": [
+  "WhyBuy": [
 				{
-					"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/newyearsday.html", 
-					"subjectLine": "ACSHoliday-New Years Day",
-					"id":"EID7823-1"
-				},
-				{
-					"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/vday.html", 
-					"subjectLine": "ACSHoliday-Valentines Day",
-					"id":"EID7823-2"
-				},
-				{
-					"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/mothersday.html", 
-					"subjectLine": "ACSHoliday-Mothers Day",
-					"id":"EID7823-3"
+					"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html",
+"id":" ",
+"title":"Why buy? Easier than you think",
+"name":"easier-than-you-think",
+"subjectLine":" ",
+"thumbnail":"https://dummyimage.com/600x400&text=Why buy? Easier than you think"
 				}
     	
   ]
