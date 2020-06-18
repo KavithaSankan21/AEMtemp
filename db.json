@@ -1,6 +1,6 @@
 {
-"WhyBuy" :{
-"WhyBuy1":
+"WhyBuy Camp" :{
+"WhyBuy":
 [{
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
         "id": "EID 5929-12",
@@ -9,7 +9,7 @@
         "subjectLine": " ",
         "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
     }],
-"WhyBuy2":
+"WhyBuy":
 [{
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
         "id": "EID 5929-12",
@@ -18,7 +18,7 @@
         "subjectLine": " ",
         "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
     }],
-	"WhyBuy3":
+	"WhyBuy":
 [{
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
         "id": "EID 5929-12",
