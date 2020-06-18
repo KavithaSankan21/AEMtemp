@@ -1,34 +1,62 @@
 {
-"WhyBuy Camp" :[
+"Auto Camp" :[
 {
-"WhyBuy1":
+"Birthday":[
 {
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 5929-12",
-        "title": "Christmas Holidays",
-        "name": "christmas-holidays",
+        "id": "EID 1",
+        "title": "birthday 1",
+        "name": "birthday 1",
         "subjectLine": " ",
         "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
     },
-"WhyBuy2":
-{
+	{
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 5929-12",
-        "title": "Christmas Holidays",
-        "name": "christmas-holidays",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
-    },
-"WhyBuy3":
-{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 5929-12",
-        "title": "Christmas Holidays",
-        "name": "christmas-holidays",
+        "id": "EID 2",
+        "title": "birthday 2",
+        "name": "birthday 2",
         "subjectLine": " ",
         "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
     }
-		
+	]},
+	{
+"Holiday":[
+{
+        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
+        "id": "EID 3,
+        "title": "Christmas Holidays",
+        "name": "christmas-holidays",
+        "subjectLine": " ",
+        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+    },
+	{
+        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
+        "id": "EID 4",
+        "title": "New year Holidays",
+        "name": "new year-holidays",
+        "subjectLine": " ",
+        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+    }
+	]},
+	{
+"Newsletter":[
+{
+        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
+        "id": "EID 5",
+        "title": "motgage",
+        "name": "mortgage",
+        "subjectLine": " ",
+        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+    },
+	{
+        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
+        "id": "EID 6",
+        "title": "homemade",
+        "name": "homemade",
+        "subjectLine": " ",
+        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+    }
+		]
 }
 ]
 }
