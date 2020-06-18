@@ -1,6 +1,7 @@
 {
  
   "WhyBuy": [
+	  "WhyBuy1":
 				{"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
 "id":"1 ",
 "title":"Answers to why you should buy",
@@ -8,6 +9,7 @@
 "subjectLine":" ",
 "thumbnail":"https://dummyimage.com/600x400&text=Answers to why you should buy"
 				},
+	  "WhyBuy2":
 	  {"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
 "id":" 2",
 "title":"Answers to why you should buy",
@@ -15,6 +17,7 @@
 "subjectLine":" ",
 "thumbnail":"https://dummyimage.com/600x400&text=Answers to why you should buy"
 				},
+	  "WhyBuy3":
 	  {"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
 "id":" 3",
 "title":"Answers to why you should buy",
