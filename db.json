@@ -1,62 +1,28 @@
 {
-"Auto Camp" :[
-{
-"Birthday":[
-{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 1",
-        "title": "birthday 1",
-        "name": "birthday 1",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+  "WhyBuy": [
+    {
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": "1 ",
+      "title": "Answers to why you should buy",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
     },
-	{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 2",
-        "title": "birthday 2",
-        "name": "birthday 2",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
-    }
-	]},
-	{
-"Holiday":[
-{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 3,
-        "title": "holiday 1",
-        "name": "holiday 1",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+    {
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": " 2",
+      "title": "Answers to why you should buy",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
     },
-	{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 4",
-        "title": "holiday 2",
-        "name": "holiday 2",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+    {
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": " 3",
+      "title": "Answers to why you should buy",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
     }
-	]},
-	{
-"Newsletter":[
-{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 5",
-        "title": "motgage",
-        "name": "mortgage",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
-    },
-	{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 6",
-        "title": "homemade",
-        "name": "homemade",
-        "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
-    }
-		]
-}
-]
+  ]
 }
