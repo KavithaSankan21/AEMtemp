@@ -8,7 +8,7 @@
         "title": "birthday 1",
         "name": "birthday 1",
         "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+        "thumbnail": " "
     },
 	{
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
@@ -16,7 +16,7 @@
         "title": "birthday 2",
         "name": "birthday 2",
         "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+        "thumbnail": " "
     }
 	]},
 	
@@ -26,11 +26,11 @@
 "Holiday":[
 {
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 3,
+        "id": "EID 3",
         "title": "holiday 1",
         "name": "holiday 1",
         "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+        "thumbnail": " "
     },
 	{
         "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
@@ -38,7 +38,7 @@
         "title": "holiday 2",
         "name": "holiday 2",
         "subjectLine": " ",
-        "thumbnail": "https://dummyimage.com/600x400&text=Christmas Holidays"
+        "thumbnail": " "
     }
 	]}
 ]
