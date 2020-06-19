@@ -1,17 +1,6 @@
+
 {
 "Auto Camp" :[
-{
-"Birthday":[
-{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 1",
-        "title": "birthday 1",
-        "name": "birthday 1",
-        "subjectLine": " ",
-        "thumbnail": " "
-    }
-	]},
-		
 	{
 "Holiday":[
 {
@@ -30,6 +19,20 @@
         "subjectLine": " ",
         "thumbnail": " "
     }
+	]},
+{
+"Birthday":[
+{
+        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
+        "id": "EID 1",
+        "title": "birthday 1",
+        "name": "birthday 1",
+        "subjectLine": " ",
+        "thumbnail": " "
+    }
 	]}
+		
+
 ]
 }
+
