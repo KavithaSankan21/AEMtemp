@@ -1,4 +1,6 @@
-[{
+{
+  "why-buy": [
+{
       "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
       "id": "EID-A1019-1",
       "title": "Email 1",
@@ -55,3 +57,4 @@
       "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
     }
   ]
+}
