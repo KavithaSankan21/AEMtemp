@@ -1,41 +1,60 @@
 {
-"Auto Camp" :[
+ [
+    {
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": "EID-A1019-1",
+      "title": "Email 1",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
+    },
+    {
+      "url": "https://asbs.htmlsave.net/",
+      "id": "EID-A1019-2",
+      "title": "Email 2",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
+    },
+    {
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": "EID-A1019-3",
+      "title": "Email 3",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
+    },
 	{
-"Holiday":[
-{
-	"Holiday 1":[
+      "url": "https://asbs.htmlsave.net/",
+      "id": "EID-A1019-4",
+      "title": "Email 4",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
+    },
 	{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 3",
-        "title": "holiday 1",
-        "name": "holiday 1",
-        "subjectLine": " ",
-        "thumbnail": " "
-    }]},
-	
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": "EID-A1019-5",
+      "title": "Email 5",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
+    },
 	{
-	"Holiday 2": [
+      "url": "https://asbs.htmlsave.net/",
+      "id": "EID-A1019-6",
+      "title": "Email 6",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
+    },
 	{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 4",
-        "title": "holiday 2",
-        "name": "holiday 2",
-        "subjectLine": " ",
-        "thumbnail": " "
-    }]}
-	]},
-{
-"Birthday":[
-{
-        "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/holiday/christmas-holidays.html",
-        "id": "EID 1",
-        "title": "birthday 1",
-        "name": "birthday 1",
-        "subjectLine": " ",
-        "thumbnail": " "
+      "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/answers-to-why-you-should-buy.html",
+      "id": "EID-A1019-7",
+      "title": "Email 7",
+      "name": "answers-to-why-you-should-buy",
+      "subjectLine": " ",
+      "thumbnail": "https://dummyimage.com/600x400&text=Answers to why you should buy"
     }
-	]}
-		
-
-]
+  ]
 }
